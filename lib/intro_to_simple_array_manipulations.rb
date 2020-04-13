@@ -24,5 +24,5 @@ end
 
 
 def shift_with_args(array,arg)
-  array.splice(arg)
+  array.shift(arg)
 end
